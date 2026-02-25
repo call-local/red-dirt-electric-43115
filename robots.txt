@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://red-dirt-electric-43115.pages.dev/sitemap.xml
