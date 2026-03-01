@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://red-dirt-electric-43115.pages.dev/sitemap.xml
+Sitemap: https://call-local.github.io/red-dirt-electric-43115/sitemap.xml
